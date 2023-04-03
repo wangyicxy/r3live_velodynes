@@ -1,3 +1,8 @@
+R3live adds the adaptation of velodyne lidar
+
+
+
+
 # R3LIVE
 ## A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
 
