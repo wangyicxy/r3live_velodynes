@@ -1,4 +1,7 @@
 R3live adds the adaptation of velodyne lidar
+run：
+roslaunch r3live r3live_bag_velodyne.launch
+
 
 
 
